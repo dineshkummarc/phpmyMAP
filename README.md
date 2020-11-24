@@ -1,4 +1,4 @@
-# Search Map
+# phpmyMAP
 > Find places, Draw on Map, and Show Current Location using Google Maps API
 
 ## What's New?
